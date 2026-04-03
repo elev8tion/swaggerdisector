@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Read",
+      "mcp__t0ggles__list-boards",
+      "mcp__t0ggles__list-projects",
+      "mcp__t0ggles__list-statuses",
+      "mcp__t0ggles__get-board",
+      "mcp__t0ggles__health-check",
+      "mcp__t0ggles__create-milestone",
+      "mcp__t0ggles__create-task",
+      "mcp__t0ggles__bulk-create-tasks",
+      "mcp__t0ggles__update-task",
+      "mcp__t0ggles__create-note",
+      "mcp__t0ggles__update-note",
+      "mcp__t0ggles__create-comment",
+      "mcp__t0ggles__search-tasks",
+      "mcp__t0ggles__list-tasks",
+      "mcp__t0ggles__get-task",
+      "mcp__t0ggles__list-milestones",
+      "mcp__t0ggles__list-notes"
+    ]
+  }
+}
